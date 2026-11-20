@@ -1,8 +1,8 @@
 {
-  "name": "mentor-skills",
-  "description": "Tools for hands-on learning with an agent.",
+  "name": "marcelart-skills",
+  "description": "Reusable agent skills from MarcelArt.",
   "owner": {
-    "name": "The Mentor maintainers"
+    "name": "MarcelArt"
   },
   "plugins": [
     {

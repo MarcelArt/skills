@@ -9,15 +9,15 @@ Use `the-mentor` with the [Skills CLI](https://github.com/MarcelArt/skills#insta
 **Codex**
 
 ```sh
-codex plugin add the-mentor@mentor-skills
+codex plugin add the-mentor@marcelart-skills
 ```
 
-In Codex desktop, open Plugins, select the `mentor-skills` marketplace, and install `the-mentor`.
+In Codex desktop, open Plugins, select the `marcelart-skills` marketplace, and install `the-mentor`.
 
 **Claude Code**
 
 ```sh
-claude plugin install the-mentor@mentor-skills
+claude plugin install the-mentor@marcelart-skills
 ```
 
 To try the Claude Code plugin in a single session, clone `https://github.com/MarcelArt/skills.git`, then run `claude --plugin-dir /path/to/cloned/skills` from your learning project.
