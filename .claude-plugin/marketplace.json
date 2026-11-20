@@ -1,0 +1,13 @@
+{
+  "name": "mentor-skills",
+  "description": "Tools for hands-on learning with an agent.",
+  "owner": {
+    "name": "The Mentor maintainers"
+  },
+  "plugins": [
+    {
+      "name": "the-mentor",
+      "source": "./"
+    }
+  ]
+}
